@@ -1,2 +1,3 @@
 Hello World
-Chcę wywołać konflikt Szymon
+Czy tutaj będzie konflikt?
+

@@ -1,2 +1,3 @@
 Hello World
-Czy tutaj będzie konflikt?
+Chce wywolac konflikt Kamil
+
